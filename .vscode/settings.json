@@ -1,0 +1,8 @@
+{
+    "explorer.excludeGitIgnore": false,
+    "search.useGlobalIgnoreFiles": false,
+    "search.useIgnoreFiles": true,
+    "files.exclude": {
+        "**/.git": false
+    }
+}
